@@ -31,7 +31,7 @@ A continuación, se muestra cómo se organiza una jerarquía simple:
   - **Coche:** Añade el atributo `numero_puertas`.
   - **Moto:** Añade el atributo `cilindrada`.
 
-![Esquema de Clases y Objetos](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/UML_class_diagram_example.svg/500px-UML_class_diagram_example.svg.png)
+![Esquema de Clases y Objetos](https://profile.es/wp-content/media/POO.jpg)
 _Diagrama representativo de la relación entre clases y objetos._
 
 ---
